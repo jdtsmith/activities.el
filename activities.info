@@ -414,6 +414,8 @@ File: README.info,  Node: v06-pre,  Next: v051,  Up: Changelog
    • Command ‘activities-rename’ renames an activity.
    • Option ‘activities-after-switch-functions’, a hook called after
      switching to an activity.
+   • Option ‘activities-kill-buffers’, when suspending an activity,
+     kills buffers that were only shown in that activity.
 
    *Changes*
    • Default time format in activities list.
@@ -635,20 +637,20 @@ Node: Bookmarks10725
 Node: FAQ11077
 Node: Changelog14153
 Node: v06-pre14467
-Node: v05115015
-Node: v0515178
-Node: v0417155
-Node: v03317696
-Node: v03218126
-Node: v03118254
-Node: v0318584
-Node: v0218974
-Node: v01319466
-Node: v01219617
-Node: v01119796
-Node: v0119961
-Node: Development20062
-Node: Copyright assignment20334
+Node: v05115147
+Node: v0515310
+Node: v0417287
+Node: v03317828
+Node: v03218258
+Node: v03118386
+Node: v0318716
+Node: v0219106
+Node: v01319598
+Node: v01219749
+Node: v01119928
+Node: v0120093
+Node: Development20194
+Node: Copyright assignment20466
 
 End Tag Table
 
